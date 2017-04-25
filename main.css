@@ -1,0 +1,59 @@
+body {
+  background-color: white;
+  padding: 60px;
+}
+
+.foto {
+  text-align: center;
+  padding: 30px;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+}
+
+.img-circle {
+  height: 150px;
+  width: 150px;
+}
+
+.info {
+  background-color: whitesmoke;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.contacto {
+  background-color: whitesmoke;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.idioma {
+  background-color: whitesmoke;
+  width: auto;
+  height: auto;
+  padding: 30px;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.barras {
+  background: skyblue;
+  margin: 5px;
+}
+
+.caja {
+  background: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  width: 250px;
+  height: 80px;
+}
+
