@@ -44,8 +44,10 @@ body {
 }
 
 .barras {
-  background: skyblue;
-  margin: 5px;
+  background: coral;
+  margin-bottom: 15px;
+  color: white;
+  margin-left: 5px;
 }
 
 .caja {
